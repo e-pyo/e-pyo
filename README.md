@@ -1,7 +1,6 @@
 ###Hey Everyone!!!!!!
 
-Java [Projects] (https://e-pyo.github.io/e-pyo/java-projects.html)
-
+My favorite Craigslist category is [Missed Connections](https://newyork.craigslist.org/d/missed-connections/search/mis 'The best place on the internet').
 
 This is the first GitHub project I have ever done! It's my website consisting of projects I 
 have done in my classes so far and I wanted to see where it goes! It will be made in GitHub for now
