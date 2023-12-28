@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hey everyone!!!!!!
+
+This is the first GitHub project I have ever done! It's my website consisting of projects I 
+have done in my classes so far and I wanted to see where it goes! It will be made in GitHub for now
+but I'm looking forward to hosting a webserver on my Raspberry Pi! Please enjoy the small projects that will
+eventually be posted here!!!
+
+Right now, I just finished my Intro to Java OOP class and I wanted to upload some of my class projects as well as my 
+projects!! Currently, I'm teaching myself Python and C and trying to relearn HTML and CSS.  Hoping to also take a look at 
+MySQL but this is subject to change depending on my classes! 
+
+*******************BEWARE******************
+Please note that right now this is just a demo website and it's subject to change!!!!!
 
 <!--
 **e-pyo/e-pyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
